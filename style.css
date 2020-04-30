@@ -2,3 +2,12 @@ p {
 
     color: green;
 }
+
+.blue {
+    background: blue;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+}
